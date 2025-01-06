@@ -1,33 +1,43 @@
 <div align='center'>
-  <h1>DECAMINO</h1>
-  <img height="200" width="200" src="https://res.cloudinary.com/dw7nvkjxx/image/upload/v1719470218/DeCamino/DeCaminoCirculo_bm96lu.png">
-  <h2>Plataforma de turismo gastronomico local</h2>
+  <h1>MapIt</h1>
+  <img height="200" width="200" src="https://www.melissa.com/images17/geocoder-location-intelligence-3-levels-of-geocoding.png">
+  <h2>App de geolocalizacion y geocodificación</h2>
  
 </div>
+<div>
+Proyecto prueba donde el usuario ingresa coordenadas o direccion fisica.
+La app consume la API Rest de Nominatim utilizando el servicio de Open street Map
 
-¡Fomentamos el turismo rural, atravez de su gastronomia local!.
+## Teconologias usadas:
+* Leaflet
+* Axios
+* Nominatim
+* OpenStreetMap
+* Tailwind
+Plugins Adicionales:
+* Leaflet Locate Control
+  
+</div>
+
+
 
 ## Cómo acceder al proyecto
-Puedes acceder a la aplicación DeCamino visitando su 
-[página web](https://github.com/igrowker/i002-decamino-front)
+
 ## Para ejecutar el proyecto en tu entorno local, sigue estos pasos:
 Asegúrate de tener Node.js y npm instalados en tu sistema antes de ejecutar estos comandos
 1. Clona el repositorio desde GitHub:
 ```
   git clone <URL_DEL_REPOSITORIO>
 ```
-2. Accede al directorio del proyecto:
-```
-  cd i002-decamino-front
-````
-3. Instala las dependencias del proyecto:
+
+2. Instala las dependencias del proyecto:
 ```
   npm install
 ```
-4. Ejecuta el proyecto localmente:
+3. Ejecuta el proyecto localmente:
 ```
   npm run dev
 ```
 
 
-¡Disfruta explorando DeCamino y sus funcionalidades!
+
