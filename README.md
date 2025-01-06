@@ -4,11 +4,11 @@
   <h2>App de geolocalizacion y geocodificación</h2>
  
 </div>
-
+<div>
 Proyecto prueba donde el usuario ingresa coordenadas o direccion fisica.
 La app consume la API Rest de Nominatim utilizando el servicio de Open street Map
 
-##Teconologias usadas:
+## Teconologias usadas:
 *Leaflet
 *Axios
 *Nominatim
@@ -16,6 +16,10 @@ La app consume la API Rest de Nominatim utilizando el servicio de Open street Ma
 *Tailwind
 Plugins Adicionales:
 *Leaflet Locate Control
+  
+</div>
+
+
 
 ## Cómo acceder al proyecto
 
