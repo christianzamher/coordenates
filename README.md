@@ -9,13 +9,13 @@ Proyecto prueba donde el usuario ingresa coordenadas o direccion fisica.
 La app consume la API Rest de Nominatim utilizando el servicio de Open street Map
 
 ## Teconologias usadas:
-*Leaflet
-*Axios
-*Nominatim
-*OpenStreetMpa
-*Tailwind
+* Leaflet
+* Axios
+* Nominatim
+* OpenStreetMap
+* Tailwind
 Plugins Adicionales:
-*Leaflet Locate Control
+* Leaflet Locate Control
   
 </div>
 
