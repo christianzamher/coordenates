@@ -1,6 +1,6 @@
 <div align='center'>
   <h1>MapIt</h1>
-  <img height="200" width="200" src="https://res.cloudinary.com/dw7nvkjxx/image/upload/v1719470218/DeCamino/DeCaminoCirculo_bm96lu.png">
+  <img height="200" width="200" src="https://www.melissa.com/images17/geocoder-location-intelligence-3-levels-of-geocoding.png">
   <h2>App de geolocalizacion y geocodificación</h2>
  
 </div>
